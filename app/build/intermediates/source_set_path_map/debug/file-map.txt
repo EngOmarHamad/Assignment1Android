@@ -1,0 +1,28 @@
+com.example.myapplication.app-material-1.5.0-0 C:\Users\tsc\.gradle\caches\8.10\transforms\200b24947b5a9ceeda7ea6667337b962\transformed\material-1.5.0\res
+com.example.myapplication.app-drawerlayout-1.1.1-1 C:\Users\tsc\.gradle\caches\8.10\transforms\2ba3706f0ae0a58a5868bb9dee0583e7\transformed\drawerlayout-1.1.1\res
+com.example.myapplication.app-lifecycle-runtime-2.4.0-2 C:\Users\tsc\.gradle\caches\8.10\transforms\3102076712bbfadc0cb35b5f55a791fc\transformed\lifecycle-runtime-2.4.0\res
+com.example.myapplication.app-emoji2-views-helper-1.0.0-3 C:\Users\tsc\.gradle\caches\8.10\transforms\3536b3a3466c2e58bdb3fcbbbe3d3e67\transformed\emoji2-views-helper-1.0.0\res
+com.example.myapplication.app-transition-1.2.0-4 C:\Users\tsc\.gradle\caches\8.10\transforms\35684f2387330cfd0717878d5d6af826\transformed\transition-1.2.0\res
+com.example.myapplication.app-appcompat-1.4.1-5 C:\Users\tsc\.gradle\caches\8.10\transforms\3d7e1e38e70a53a3c727f26b7405fb26\transformed\appcompat-1.4.1\res
+com.example.myapplication.app-lifecycle-process-2.4.0-6 C:\Users\tsc\.gradle\caches\8.10\transforms\4c529f9444f396e59fbf5de3917a0399\transformed\lifecycle-process-2.4.0\res
+com.example.myapplication.app-savedstate-1.1.0-7 C:\Users\tsc\.gradle\caches\8.10\transforms\4d76f6c4cc489e855776990c40c46798\transformed\savedstate-1.1.0\res
+com.example.myapplication.app-cardview-1.0.0-8 C:\Users\tsc\.gradle\caches\8.10\transforms\58e185632551791036493725776b3b7e\transformed\cardview-1.0.0\res
+com.example.myapplication.app-recyclerview-1.1.0-9 C:\Users\tsc\.gradle\caches\8.10\transforms\6d5a9cb9ec17eb1667a49cd235407fce\transformed\recyclerview-1.1.0\res
+com.example.myapplication.app-lifecycle-viewmodel-2.3.1-10 C:\Users\tsc\.gradle\caches\8.10\transforms\750060ddf2660525a5319b7ca364c58d\transformed\lifecycle-viewmodel-2.3.1\res
+com.example.myapplication.app-emoji2-1.0.0-11 C:\Users\tsc\.gradle\caches\8.10\transforms\94edeb5a0df3aca0e0c90207404efbc2\transformed\emoji2-1.0.0\res
+com.example.myapplication.app-annotation-experimental-1.1.0-12 C:\Users\tsc\.gradle\caches\8.10\transforms\9ebbe54dbac4bef00d47261cddb5ae28\transformed\annotation-experimental-1.1.0\res
+com.example.myapplication.app-core-1.7.0-13 C:\Users\tsc\.gradle\caches\8.10\transforms\b0c726357280e652438ce7fa183990da\transformed\core-1.7.0\res
+com.example.myapplication.app-startup-runtime-1.0.0-14 C:\Users\tsc\.gradle\caches\8.10\transforms\bf7ba7e14e7305720981f94b861a32a5\transformed\startup-runtime-1.0.0\res
+com.example.myapplication.app-viewpager2-1.0.0-15 C:\Users\tsc\.gradle\caches\8.10\transforms\c86e07d6a4f66bbaa8c190b263716a37\transformed\viewpager2-1.0.0\res
+com.example.myapplication.app-coordinatorlayout-1.1.0-16 C:\Users\tsc\.gradle\caches\8.10\transforms\c97ddff9cbaa7b350983c16acc230f92\transformed\coordinatorlayout-1.1.0\res
+com.example.myapplication.app-appcompat-resources-1.4.1-17 C:\Users\tsc\.gradle\caches\8.10\transforms\ca2edf9bbe4b6b56127a8c604ee47b01\transformed\appcompat-resources-1.4.1\res
+com.example.myapplication.app-fragment-1.3.6-18 C:\Users\tsc\.gradle\caches\8.10\transforms\d5008451c98a12574ce68b475e06995c\transformed\fragment-1.3.6\res
+com.example.myapplication.app-constraintlayout-2.1.3-19 C:\Users\tsc\.gradle\caches\8.10\transforms\f6272ea4457b2b56ff016e1f5aeaa8f0\transformed\constraintlayout-2.1.3\res
+com.example.myapplication.app-pngs-20 C:\Users\tsc\Desktop\My Solution\Assignment1\app\build\generated\res\pngs\debug
+com.example.myapplication.app-resValues-21 C:\Users\tsc\Desktop\My Solution\Assignment1\app\build\generated\res\resValues\debug
+com.example.myapplication.app-rs-22 C:\Users\tsc\Desktop\My Solution\Assignment1\app\build\generated\res\rs\debug
+com.example.myapplication.app-packageDebugResources-23 C:\Users\tsc\Desktop\My Solution\Assignment1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.myapplication.app-packageDebugResources-24 C:\Users\tsc\Desktop\My Solution\Assignment1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.myapplication.app-merged_res-25 C:\Users\tsc\Desktop\My Solution\Assignment1\app\build\intermediates\merged_res\debug
+com.example.myapplication.app-debug-26 C:\Users\tsc\Desktop\My Solution\Assignment1\app\src\debug\res
+com.example.myapplication.app-main-27 C:\Users\tsc\Desktop\My Solution\Assignment1\app\src\main\res
